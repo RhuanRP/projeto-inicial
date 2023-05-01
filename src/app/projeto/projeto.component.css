@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+.profile{
+  height: 50%;
+}
+p {
+  color: black;
+}
